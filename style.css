@@ -5,3 +5,37 @@
 body {
     background-color: rgb(31, 31, 72);
 }
+.corpo{
+    padding-left: 500px;
+    padding-top: 30px;
+}
+.buscarPersonagem{
+    background-color:  hsl(0, 69%, 48%);
+    height: 60px;
+    width: 200px;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    border-top-right-radius: 20px;
+}
+#idPokemon{
+    border-radius: 10px;
+    width: 195px;
+    height: 20px;
+    margin-bottom: 10px;
+}
+#buttonBuscarPersonagem{
+    border-radius: 20px;
+    width: 200px;
+    height: 25px;
+
+}
+.personagem{
+    background-color: hsl(0, 69%, 48%);
+    height: 60px;
+    width: 170px;
+    padding: 20px;
+    border-radius: 10px;
+    border-top-right-radius: 20px;
+    margin-left: 15px;
+}
