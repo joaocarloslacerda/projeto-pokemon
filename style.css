@@ -3,14 +3,14 @@
     padding: 0;
 }
 body {
-    background-color: rgb(31, 31, 72);
+    background-color: #012043;
 }
 .corpo{
     padding-left: 500px;
     padding-top: 30px;
 }
 .buscarPersonagem{
-    background-color:  hsl(0, 69%, 48%);
+    background-color:  #D34646;
     height: 60px;
     width: 200px;
     padding: 15px;
@@ -32,7 +32,7 @@ body {
     
 }
 .personagem{
-    background-color: hsl(0, 69%, 48%);
+    background-color: #D34646;
     width: 190px;
     height: 210px;
     padding: 10px;
