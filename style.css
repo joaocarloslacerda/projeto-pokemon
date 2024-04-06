@@ -20,16 +20,19 @@ body {
     border-top-right-radius: 15px;
 }
 #idPokemon{
+    text-align: center;
+    font-weight: bold;
     border-radius: 10px;
-    width: 195px;
+    width: 190px;
     height: 20px;
     margin-bottom: 10px;
+    padding-left: 5px;
 }
 #buttonBuscarPersonagem{
     border-radius: 20px;
     width: 200px;
     height: 25px;
-    
+    font-weight: bold;
 }
 .personagem{
     background-color: #D34646;
@@ -61,11 +64,11 @@ body {
     color: white;
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
-    text-transform: uppercase;
+    text-transform: capitalize;
     text-align: center;
     padding-top: 10px;
 }
-#tipoPersonagem{
+.tipoUm, .tipoDois{
     color: white;
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
@@ -73,7 +76,7 @@ body {
     text-align: center;
     margin-top: 10px;
 }
-#tipoPersonagem{
+.tipoUm, .tipoDois{
     width: 80px;
     height: 20px;
     padding-top: 5px;
